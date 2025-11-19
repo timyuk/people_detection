@@ -6,6 +6,9 @@
 ## Установка
 pip install -r requirements.txt
 
+## Входное видео
+Перед запуском положите файл `crowd.mp4` в корень проекта (на одном уровне с `main.py`).
+
 ## Запуск
 python main.py
 
